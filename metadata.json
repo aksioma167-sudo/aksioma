@@ -1,0 +1,6 @@
+{
+  "name": "FocusKids",
+  "description": "6-10 yoshli bolalar uchun Olli boyo'g'li bilan diqqatni jamlash va fanlarni o'rganish platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
